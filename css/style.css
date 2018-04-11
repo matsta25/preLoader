@@ -1,7 +1,4 @@
-.preloaderSeciton {
-    margin: auto;
-    height: 100vh;
-    width: 70px;
+.preloaderSeciton {    
     transition: opacity .8s ease;
     z-index: 1;
     overflow: hidden;
