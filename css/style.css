@@ -4,6 +4,7 @@
     width: 70px;
     transition: opacity .8s ease;
     z-index: 1;
+    overflow: hidden;
 }
 
 .preloader-hiding {
@@ -16,4 +17,9 @@
 
 .mainSection {
     z-index: 0;
+    overflow: hidden;
+}
+
+.mainSection-showing{
+    display: none;
 }
